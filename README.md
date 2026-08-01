@@ -6,6 +6,8 @@
 
 > **Powered by lithEngine · MADE BY ROST**
 
+<img width="1102" height="702" alt="scr_vmCdEUY" src="https://github.com/user-attachments/assets/4a98ec22-8b70-4f15-b073-99d767ffd03e" />
+
 | | |
 |---|---|
 | **Издание** | Lithium 7 |
