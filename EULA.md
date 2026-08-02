@@ -1,6 +1,6 @@
 # Lithium 7 — Условия использования / Terms of use
 
-**Редакция (revision): 1**  
+**Редакция (revision): 2**  
 **Программа / Program:** Lithium 7 («Программа» / “the Program”)  
 **Характер:** безвозмездно, AS IS, закрытый исходный код (proprietary)
 
@@ -94,7 +94,7 @@ By using the Program (including expressing consent in the GUI or CLI), you confi
 
 ## 14. Автор, применимое право и язык текста
 
-«Автор» — правообладатель Программы, указанный на официальной странице релизов; там же приводится единственный канал связи с ним.
+«Автор» — правообладатель Программы, указанный на официальной странице релизов; там же приводится единственный канал связи с ним (ROST/rost).
 
 К настоящим условиям применяется право Российской Федерации в части, не противоречащей императивным нормам страны вашего постоянного проживания.
 
@@ -180,7 +180,7 @@ By expressing consent, you confirm that you are at least **18** years old (or ac
 
 ## 14. Author, governing law, and language
 
-“The author” means the rightsholder of the Program named on the official releases page, which also lists the only contact channel.
+“The author” means the rightsholder of the Program named on the official releases page, which also lists the only contact channel (ROST/rost).
 
 These terms are governed by the law of the Russian Federation, to the extent this does not conflict with mandatory rules of your country of habitual residence.
 
